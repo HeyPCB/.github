@@ -24,8 +24,6 @@ Gerbers, drill files, BOM, CPL and STEP a board house needs.
 
 <sub>Top: HackRF One by Great Scott Gadgets (CERN-OHL-P-2.0), opened, checked and cased in HeyPCB. Bottom: boards from our <a href="https://github.com/HeyPCB/merch">merch</a> set.</sub>
 
-<br><br>
-
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/Qun7ZtY2Xy)&ensp;
 [![Follow @heypcbai](https://img.shields.io/twitter/follow/heypcbai)](https://x.com/heypcbai)&ensp;
 [![npm @heypcb/mcp](https://img.shields.io/npm/v/@heypcb/mcp?label=%40heypcb%2Fmcp&logo=npm)](https://www.npmjs.com/package/@heypcb/mcp)&ensp;
@@ -62,11 +60,9 @@ claude.ai are on [heypcb.ai/mcp](https://heypcb.ai/mcp); the source is in
 
 ## Where to use it
 
-| | |
-|---|---|
-| **[heypcb.ai](https://heypcb.ai)** | The full editor: schematic, PCB, 3D and enclosure, each editable by hand. Free trial, no card needed. |
-| **[AI agents (MCP)](https://heypcb.ai/mcp)** | Design boards from Claude Code, Codex, Cursor or claude.ai. |
-| **[KiCad plugin](https://heypcb.ai/kicad)** | Inky beside the board open in KiCad 10's PCB Editor. In beta. |
+- **[heypcb.ai](https://heypcb.ai)**: the full editor, with schematic, PCB, 3D and enclosure, each editable by hand. Free trial, no card needed.
+- **[AI agents (MCP)](https://heypcb.ai/mcp)**: design boards from Claude Code, Codex, Cursor or claude.ai.
+- **[KiCad plugin](https://heypcb.ai/kicad)**: Inky beside the board open in KiCad 10's PCB Editor. In beta.
 
 Also in the editor: [Multiplayer](https://heypcb.ai/multiplayer) (edit one
 board together, live), [Time Machine](https://heypcb.ai/timemachine) (every
