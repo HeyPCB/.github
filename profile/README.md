@@ -105,9 +105,9 @@ and most include Gerbers, BOM and CPL. Each repo names its licence.
       <br>Boards built through our MCP server. HELLO is a tiny 8051 computer shaped like a 1984 desktop.
     </td>
     <td valign="top">
-      <a href="https://heypcb.ai/store"><img src="./assets/dev-boards.webp" alt="Red Eyes, an ESP32-C6 dev board, in 3D" width="100%"></a>
-      <br><b><a href="https://heypcb.ai/store">Dev boards</a></b>
-      <br>Red Eyes, Exodia and Charizard, with KiCad files, Gerbers and BOM on the store.
+      <a href="https://github.com/HeyPCB/kestrel-esc"><img src="./assets/kestrel-esc.webp" alt="Kestrel 4in1, the quad's 4-in-1 ESC, raytraced in KiCad" width="100%"></a>
+      <br><b><a href="https://github.com/HeyPCB/kestrel-esc">Kestrel 4in1</a></b>
+      <br>The quad's ESC: four STM32G071s running stock AM32 drive 24 CSD18540 FETs, with battery current sensing. 48 × 52 mm, six layers.
     </td>
   </tr>
   <tr>
